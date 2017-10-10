@@ -1,6 +1,6 @@
 # Companies
 
-Companies are sorted by in alphabetical order.
+Companies are sorted by alphabetical order.
 
 ## Agencies
 
