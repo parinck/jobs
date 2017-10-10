@@ -14,3 +14,4 @@ Companies are sorted by alphabetical order.
 - [SEA](http://www.seagroup.com)
   - [Garena](https://www.garena.sg): Gaming
   - [Shopee](https://shopee.sg): E-commerce
+- [Tech in Asia](https://www.techinasia.com): Tech in Asia
